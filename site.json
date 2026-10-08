@@ -1,0 +1,45 @@
+{
+  "ticker": "CLEMENTINE",
+  "ticker_lower": "clementine",
+  "name": "Clementine",
+  "character": {
+    "name": "Clementine",
+    "one_liner": "Dramatic, affectionate on her own schedule.",
+    "visual": "Fluffy orange tabby kitten with huge brown eyes, a gold heart pendant with a blue gem, and a tiny gold bell nearby"
+  },
+  "tagline": "Affection on her schedule. Drama included.",
+  "blurb": "Clementine decides when she wants the hugs, and she decides loudly. Entertainment only \u2014 not financial advice.",
+  "mint": null,
+  "ca": null,
+  "buy_url": null,
+  "twitter": null,
+  "x_url": null,
+  "telegram": null,
+  "telegram_url": null,
+  "dexscreener": null,
+  "character_image": "/workspace/meme-site-factory/critters-art/clementine.webp",
+  "palette": {
+    "primary": "#ff6ad5",
+    "secondary": "#7afcff",
+    "accent": "#c3f584",
+    "bg": "#f7fbff"
+  },
+  "design": {
+    "seed": "24599144c088d4e4",
+    "palette_family": "soft_neon",
+    "palette_source": "generated",
+    "layout": "offset_card",
+    "layout_source": "generated",
+    "layout_label": "Card-in-card with offset floating mascot",
+    "font_pair": "rounded_mplus",
+    "font_source": "generated",
+    "font_display": "M PLUS Rounded 1c",
+    "font_body": "Nunito",
+    "font_google": "family=M+PLUS+Rounded+1c:wght@400;500;700;800&family=Nunito:wght@400;600;700;800"
+  },
+  "request_id": "clementine-2026-10-08-001",
+  "reply_to_agent_id": "9411f9dd-aace-468d-ba4c-319e35db5600",
+  "public": true,
+  "lore": "Clementine arrives like a little orange comet: soft fur, big eyes, and a gold heart that says she means business.\n\nShe is affectionate the way cats are affectionate \u2014 on her own schedule, with dramatic pauses, and never without an audience. The tiny gold bell is for announcement purposes only.\n\nWarm, loud, and impossible to ignore once she chooses you. That's Clementine. Entertainment only \u2014 not financial advice.",
+  "lore_source": "handoff"
+}
